@@ -1,0 +1,53 @@
+# Translation file for Transifex.
+# Copyright (C) 2007-2010 Indifex Ltd.
+# This file is distributed under the same license as the Transifex package.
+# 
+# Translators:
+# Translators:
+# Test Account <mattjjacko+test@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Txgh Test\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-17 20:10+0000\n"
+"PO-Revision-Date: 2015-09-10 19:06+0000\n"
+"Last-Translator: Test Account <mattjjacko+test@gmail.com>\n"
+"Language-Team: Greek (Greece) (http://www.transifex.com/test-organization-4/txgh-test-1/language/el_GR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "One"
+msgstr "Ένα"
+
+msgid "Two"
+msgstr "Δύο"
+
+msgid "Three"
+msgstr "Τρεις"
+
+msgid "Four"
+msgstr "Τέσσερις"
+
+msgid "Five"
+msgstr "Πέντε"
+
+msgid "Six"
+msgstr "Έξι"
+
+msgid "Seven"
+msgstr "Επτά"
+
+msgid "Eight"
+msgstr "Οκτώ"
+
+msgid "Nine"
+msgstr "Εννέα"
+
+msgid "Ten"
+msgstr "Δέκα"
+
+msgid "Elven"
+msgstr "Elven"
