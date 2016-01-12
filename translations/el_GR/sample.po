@@ -47,3 +47,6 @@ msgstr ""
 
 msgid "Ten"
 msgstr ""
+
+msgid "Elven"
+msgstr ""
